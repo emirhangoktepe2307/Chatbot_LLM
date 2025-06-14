@@ -1,0 +1,105 @@
+{
+    "questions": [
+      {
+        "id": 1,
+        "soru": "Yapay zeka nedir?",
+        "cevap": "Yapay zeka, insan benzeri zeka davranışlarını taklit edebilen sistemlerin geliştirilmesini amaçlayan bir bilgisayar bilimi dalıdır."
+      },
+      {
+        "id": 2,
+        "soru": "Python'da yapay zeka için en çok kullanılan kütüphane nedir?",
+        "cevap": "En çok kullanılan kütüphaneler arasında TensorFlow, Keras, Scikit-learn ve PyTorch bulunmaktadır."
+      },
+      {
+        "id": 3,
+        "soru": "Makine öğrenmesi nedir?",
+        "cevap": "Makine öğrenmesi, bilgisayarların verilerden öğrenmesini ve açıkça programlanmadan kararlar almasını sağlayan yapay zeka alt dalıdır."
+      },
+      {
+        "id": 4,
+        "soru": "Python'da veri analizi için kullanılan kütüphaneler nelerdir?",
+        "cevap": "Pandas ve NumPy veri analizi için en yaygın kullanılan kütüphanelerdir."
+      },
+      {
+        "id": 5,
+        "soru": "Denetimli öğrenme (supervised learning) nedir?",
+        "cevap": "Girdi ve çıktının bilindiği verilerle modelin eğitildiği makine öğrenmesi türüdür."
+      },
+      {
+        "id": 6,
+        "soru": "Yapay sinir ağı nedir?",
+        "cevap": "Yapay sinir ağı, insan beynindeki nöronları taklit eden yapay zeka modelleridir."
+      },
+      {
+        "id": 7,
+        "soru": "Python'da makine öğrenmesi modelleri hangi kütüphane ile kolayca oluşturulabilir?",
+        "cevap": "Scikit-learn kütüphanesi, temel makine öğrenmesi modelleri için çok kullanışlıdır."
+      },
+      {
+        "id": 8,
+        "soru": "Overfitting nedir?",
+        "cevap": "Modelin eğitim verisine çok iyi uyum sağlaması ama yeni verilere genelleyememesi durumudur."
+      },
+      {
+        "id": 9,
+        "soru": "Yapay zekada kullanılan veri ön işleme adımlarından biri nedir?",
+        "cevap": "Eksik verilerin doldurulması (imputation) veya normalizasyon ön işleme adımlarıdır."
+      },
+      {
+        "id": 10,
+        "soru": "Doğruluk (accuracy) neyi ifade eder?",
+        "cevap": "Modelin doğru tahmin ettiği örneklerin toplam örnek sayısına oranıdır."
+      },
+      {
+        "id": 11,
+        "soru": "Keras hangi kütüphane üzerine inşa edilmiştir?",
+        "cevap": "Keras genellikle TensorFlow üzerine inşa edilmiştir."
+      },
+      {
+        "id": 12,
+        "soru": "Yapay zekada kullanılan 'model eğitimi' (training) nedir?",
+        "cevap": "Modelin verilerden örüntü öğrenmesi sürecidir."
+      },
+      {
+        "id": 13,
+        "soru": "Python'da grafik çizmek için hangi kütüphane kullanılır?",
+        "cevap": "Matplotlib ve Seaborn yaygın olarak kullanılır."
+      },
+      {
+        "id": 14,
+        "soru": "Doğrusal regresyon (Linear Regression) nedir?",
+        "cevap": "Bir bağımlı değişken ile bir veya daha fazla bağımsız değişken arasındaki ilişkiyi modelleyen istatistiksel bir yöntemdir."
+      },
+      {
+        "id": 15,
+        "soru": "Epoch terimi neyi ifade eder?",
+        "cevap": "Tüm eğitim verisinin bir kez modelden geçirilmesidir."
+      },
+      {
+        "id": 16,
+        "soru": "Python'da TensorFlow ile bir model nasıl oluşturulur?",
+        "cevap": "`Sequential()` sınıfı ile katmanlar tanımlanarak model oluşturulabilir."
+      },
+      {
+        "id": 17,
+        "soru": "Yapay zeka projelerinde neden çok veri önemlidir?",
+        "cevap": "Modelin daha doğru öğrenebilmesi ve genelleme yapabilmesi için büyük ve kaliteli veri gereklidir."
+      },
+      {
+        "id": 18,
+        "soru": "Python'da veri setlerini bölmek için hangi fonksiyon kullanılır?",
+        "cevap": "`train_test_split()` fonksiyonu Scikit-learn içinde kullanılır."
+      },
+      {
+        "id": 19,
+        "soru": "Yapay zekada sınıflandırma problemi nedir?",
+        "cevap": "Verilerin belirli kategorilere veya etiketlere ayrılması gereken problemdir."
+      },
+      {
+        "id": 20,
+        "soru": "Aktivasyon fonksiyonu ne işe yarar?",
+        "cevap": "Nöronun çıktısını hesaplar ve ağın doğrusal olmayan problemleri öğrenmesini sağlar."
+      }
+    ]
+  }
+  
